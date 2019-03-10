@@ -1,11 +1,11 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: 202
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: SoftStack Factory
   
 #### Your team’s hackathon idea in TWO sentences:
-##### `YOUR TWO SENTENCES HERE`
+##### Platform to provide independence to aging population
 ##### `YOUR TWO SENTENCES HERE`  
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
@@ -17,9 +17,9 @@
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Peter Horton           |         []          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | Michael Asuncion  |         [x]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 03 | Robert Brown                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 06 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
