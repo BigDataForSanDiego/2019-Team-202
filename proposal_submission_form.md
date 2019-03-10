@@ -5,7 +5,8 @@
 #### Team Name: SoftStack Factory
   
 #### Your team’s hackathon idea in TWO sentences:
-##### Platform to provide independence to aging population
+##### Platform to provide independence to aging population.
+##### In home data collection to improve healthcare outcomes and effiency.
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
 - ##### [San Diego County HHS](https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_health_statistics/regional-community-data.html)
