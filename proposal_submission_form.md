@@ -8,8 +8,8 @@
 ##### Platform to provide independence to aging population
   
 #### Dataset(s) your team might use for the project (Provide name and URL):
-- ##### ![San Diego County HHS](https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_health_statistics/regional-community-data.html)
-- ##### ![SanGIS](http://www.sangis.org)
+- ##### [San Diego County HHS](https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_health_statistics/regional-community-data.html)
+- ##### [SanGIS](http://www.sangis.org)
 
 #### Team Coordinator GitHub Username: phortonssf
 
